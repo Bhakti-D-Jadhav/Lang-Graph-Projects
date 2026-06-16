@@ -19,7 +19,6 @@ An AI-powered Interview Coach built using LangGraph and Groq LLM that conducts m
 
 * Python
 * LangGraph
-* LangChain
 * Groq LLM
 * TypedDict State Management
 * Environment Variables (.env)
